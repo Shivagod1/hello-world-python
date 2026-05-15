@@ -1,8 +1,6 @@
- `main.py`
 
-```python
 def main():
-    name = "Shiva"  # Change this to your name
+    name = "Shiva"
     print("Hello, World! 👋")
     print(f"My name is {name} and I'm learning GitHub!")
     print("This is my first simple repository 🚀")
